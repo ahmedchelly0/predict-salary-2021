@@ -1,0 +1,6 @@
+projet python machine learning 
+conda create ml python=3.9
+
+conda activate ml 
+
+streamlit run <name.py>
